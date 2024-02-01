@@ -1,0 +1,26 @@
+.grid-container {
+    display: grid;
+    /* grid-template-columns: auto auto auto; */
+    background-color: #b8d8f3;
+    padding: 10px;
+  }
+  .grid-row {
+    /* display: grid; */
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 14px;
+    text-align: center;
+}
+.grid-column{
+    background-color: rgba(115, 209, 196, 0.842);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 15px;
+}
+.background-color{
+    background-color: rgba(239, 222, 255, 0.678);
+}
+
+  div{
+    display: inline;
+  }
